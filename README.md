@@ -1,4 +1,4 @@
-# Heart-Disease-Classifier
+# Heart-Disease-Predictor
 
 ## A Logistic Regression model that predicts heart disease in a patient by using the UCI Heart Disease dataset. The dataset consists of clinical and personal records, such as their age, sex, chest pain, cholesterol, resting blood pressure, and more.
 
